@@ -1,12 +1,12 @@
 <template>
     <section class="relative bg-black bg-opacity-95 text-white py-16 md:py-24 overflow-hidden">
-      <!-- Background gradient effects -->
+      
       <div class="absolute bottom-0 left-0 w-96 h-96 bg-purple-600 opacity-20 blur-3xl rounded-full"></div>
       <div class="absolute top-1/2 right-0 w-96 h-96 bg-purple-600 opacity-20 blur-3xl rounded-full"></div>
       <div class="absolute bottom-1/3 left-1/4 w-64 h-64 bg-blue-500 opacity-10 blur-3xl rounded-full"></div>
       
       <div class="max-w-6xl mx-auto px-4 relative z-10">
-        <!-- Main Header -->
+        
         <div class="text-center mb-16">
           <h2 class="text-3xl md:text-4xl lg:text-5xl font-bold mb-6 text-white">Crypto Market Making</h2>
           <p class="text-base md:text-lg max-w-2xl mx-auto text-white">
@@ -16,7 +16,7 @@
           </p>
         </div>
         
-        <!-- Market Making for Crypto Projects Section -->
+        
         <div class="grid md:grid-cols-2 gap-12 mb-20 items-center">
           <div class="order-2 md:order-1">
             <h3 class="text-2xl md:text-3xl font-bold mb-4 text-white">Market Making for<br>Crypto Projects</h3>
@@ -43,7 +43,7 @@
           </div>
         </div>
         
-        <!-- Market Making for Crypto Exchanges Section -->
+        
         <div class="grid md:grid-cols-2 gap-12 mb-24 items-center">
           <div class="flex justify-center">
             <img src="/div copy.png" alt="Exchange Trading Interface" class="max-w-full h-auto" />
